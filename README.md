@@ -21,11 +21,11 @@ Or, hover over the green "code" button above and select "Download ZIP." Then, un
 
 
 ## Description of Files
-- images: This folder contains images used in the Jupyter Notebooks
-- IMDB: This folder contains the IMDB data we will work with over the course of the workshop
-- IPEDS_Raw: This folder contains the acceptance rate data we will work with over the course of the workshop
-- titles-pre-workshop-cleaning.ipynb: This Jupyter notebook shows the cleaning steps taken by instructors before the workshop to prepare the workshop data. We will not go over this during the workshop, but you're welcome to look through it if curious.
-- unserious-data-walkthrough: This Jupyter notebook where we will write code for data preparation, analysis, and visualization together over the course of the workshop. 
+- `images`: This folder contains images used in the Jupyter Notebooks
+- `IMDB`: This folder contains the IMDB data we will work with over the course of the workshop
+- `IPEDS_Raw`: This folder contains the acceptance rate data we will work with over the course of the workshop
+- `titles-pre-workshop-cleaning.ipynb`: This Jupyter notebook shows the cleaning steps taken by instructors before the workshop to prepare the workshop data. We will not go over this during the workshop, but you're welcome to look through it if curious.
+- `unserious-data-walkthrough.ipynb`: This Jupyter notebook where we will write code for data preparation, analysis, and visualization together over the course of the workshop. 
 
 ## Post-Class Survey
 If you attended this live webinar during Love Data Week 2026, please take this [survey](https://jh.qualtrics.com/jfe/form/SV_bEIiSP4Rpr0hbn0)
